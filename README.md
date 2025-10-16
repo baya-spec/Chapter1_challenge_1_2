@@ -38,14 +38,24 @@ Prerequisites
 
 Java Development Kit (JDK) 8 or higher
 A Java IDE (e.g., NetBeans, IntelliJ IDEA) or command-line tools (javac, java)
+
 How To Run
+
+
 1,Place the Java file in the appropriate package directory:
+
 com/mycompany/chapter1_challenge_1_2/Chapter1_challenge_1_2.java
+
 2,Place the Java file in the appropriate package directory:
+
 javac com/mycompany/chapter1_challenge_1_2/Chapter1_challenge_1_2.java
+
 3, Execute the program:
+
 java com.mycompany.chapter1_challenge_1_2.Chapter1_challenge_1_2
+
 4, Observe the analysis output and the final winning ticket.
+
 Key Features
 
 Hyphen Removal: Cleans ticket strings for digit processing.
